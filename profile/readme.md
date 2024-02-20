@@ -46,6 +46,6 @@
 
 ###
 
-<p align="left">🔹<a href="https://github.com/AbdelrhmanAbuelnile">@Abdelrahman Hany</a><br>🔹<a href="https://github.com/KAMALDON7">Mahmoud Osama</a><br>🔹<a href="https://github.com/3mrNour">@Amr Khaled</a><br>🔹<a href="https://github.com/KAMALDON7">@Mostafa Kamal</a><br>🔹<a href="https://github.com/Abdelrhmanabdelhay">Abdelrahman Abdelhay</a></p>
+<p align="left">🔹<a href="https://github.com/AbdelrhmanAbuelnile">@Abdelrahman Hany</a><br>🔹<a href="https://github.com/mahmoudosama1100">Mahmoud Osama</a><br>🔹<a href="https://github.com/3mrNour">@Amr Khaled</a><br>🔹<a href="https://github.com/KAMALDON7">@Mostafa Kamal</a><br>🔹<a href="https://github.com/Abdelrhmanabdelhay">Abdelrahman Abdelhay</a></p>
 
 ###
